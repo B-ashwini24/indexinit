@@ -1,0 +1,35 @@
+.grad_1 {
+	background-image:radial-gradient(circle at top,greenyellow,yellow,green );
+  
+  width: 50%;
+  height: 50%;
+  float:left;
+}
+*{
+  height:100%;
+  width:100%;
+}
+
+.grad_2{
+  
+float:right;
+   width: 50%;
+  height: 50%;
+  background-image:radial-gradient(circle at bottom,darkgreen,lime,yellow,red);
+}
+.grad_3{
+  
+float:left;
+   width: 50%;
+  height: 50%;
+  background-image:linear-gradient(to left,darkgreen,lime,yellow,blue);
+}
+.grad_4{
+  float:right;
+
+   width: 50%;
+  height: 50%;
+  background-image:linear-gradient(to right,red,yellow,green);
+}
+
+

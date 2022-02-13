@@ -1,0 +1,28 @@
+
+div{
+    border: 2px solid red;
+    border-width: thick;
+    width: 50%;
+    background-color: azure ;
+    background-image:url('img2.jfif') ;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+  }
+  body{
+      font-size: medium;
+      font-style: italic;
+      
+      
+  }
+  .test1{
+      color: black;
+      text-align: center;
+      font-style: normal;
+      font-size: larger;
+      
+      
+  }
+  div1{
+      background-color: coral;
+  }
