@@ -1,0 +1,16 @@
+.tablecontainer{
+    border: 1px solid black;
+    display:flex;
+    justify-content: center;
+   
+}
+table tbody tr td {
+    border:1px solid black
+    
+}
+table{
+    width:100%
+}
+tr tbody td{
+    height: 50px;
+}
